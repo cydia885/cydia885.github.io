@@ -11,7 +11,13 @@
 			-->
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>libactivator</package>
+		<package>rocketbootstrap</package>
+		<package>open</package>
+		<package>simulatetouch</package>
+	</dependencies>
 	<descriptionlist>
 		<description>群发工具</description>
 	</descriptionlist>
