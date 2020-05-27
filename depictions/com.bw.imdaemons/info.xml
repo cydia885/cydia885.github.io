@@ -12,11 +12,11 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
-		<package>libactivator</package>
-		<package>rocketbootstrap</package>
+		<!-- <package>mobilesubstrate</package> -->
+		<package>Activator</package>
+		<!-- <package>rocketbootstrap</package>
 		<package>open</package>
-		<package>simulatetouch</package>
+		<package>simulatetouch</package> -->
 	</dependencies>
 	<descriptionlist>
 		<description>群发工具</description>
