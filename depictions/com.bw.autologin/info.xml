@@ -1,6 +1,6 @@
 <package>
-	<id>com.bw.imdaemons</id>
-	<name>imessage进程守护</name>
+	<id>com.bw.autologin</id>
+	<name>imessage账号切换器</name>
 	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
@@ -14,7 +14,7 @@
 	<dependencies>
 	</dependencies>
 	<descriptionlist>
-		<description>群发进程守护</description>
+		<description>群发账号切换器</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
